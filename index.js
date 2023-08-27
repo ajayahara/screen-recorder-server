@@ -52,3 +52,4 @@ app.listen(process.env.PORT,async ()=>{
         console.log(err)
     }
 })
+module.exports=app;
